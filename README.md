@@ -1,0 +1,2 @@
+# evolutionSimulator
+The goal if this project is to simulate an evolutionary process. Creatures are composed of numerous joints and muscles where joints which are randomly determined upon initalization. Joints are fixed points connected by a muscle. Joints act as pivot points and contact the ground, where as joints oscillate back and forth generating movement. The creatures must complete a predetermined task and evolutionary tatics are implemented to select future generations of creatures.
